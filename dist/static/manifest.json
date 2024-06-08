@@ -2,10 +2,10 @@
   "display": "standalone",
   "scope": "/",
   "start_url": "/",
-  "name": "🌠 Anime Camp △ ",
+  "name": "AList",
   "icons": [
     {
-      "src": "https://cdn.asuna-vps.xyz/pic/logo.png",
+      "src": "https://jsd.nn.ci/gh/alist-org/logo@main/logo.png",
       "sizes": "512x512",
       "type": "image/png"
     }
