@@ -1,0 +1,1 @@
+import{h as t,E as a,O as r,H as h,N as s,b as c,av as f,c7 as o}from"./index.dd18acc1.js";const u=e=>t(s,a(e,{get href(){return r(e.encode?h(e.href):e.href)}})),m=e=>t(o,a(e,{get href(){return f(()=>!!e.cancelBase,!0)()?e.href:r(e.href)}})),g=e=>{const{pushHref:n}=c();return t(u,a(e,{get href(){return n(e.href)}}))};export{m as A,u as L,g as a};
